@@ -1,0 +1,15 @@
+= forBreakfastEatingFailure
+:showtitle:
+:page-navtitle: First Entry
+:page-excerpt: Excerpt goes here.
+:page-root: ../../../
+
+== Who I am?
+
+== Why do I do this?
+
+The idea was taken from "Forever Employable" of Jeff Gothelf. 
+
+== Why this name (forBreakfastEatingFailure) ?
+
+== What can I expect from this blog?
